@@ -1,0 +1,4 @@
+I'm adding words so there can be
+analysis of frequency.
+The answer is the cipher key
+converted to base ten, you see.
